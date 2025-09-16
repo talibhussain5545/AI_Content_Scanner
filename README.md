@@ -1,7 +1,3 @@
-Here's a reworded and refreshed version of your `README.md`. It maintains all the original content and structure but improves readability, makes it look distinct, and introduces minor stylistic changes to avoid direct duplication.
-
----
-
 # 🚀 AI_Content_Scanner
 
 **AI_Content_Scanner** is a powerful framework built on **NVIDIA Inference Microservices (NIM)**, designed to streamline the deployment and scaling of Generative AI models. It delivers optimized performance for LLMs and other generative applications with robust monitoring, scaling, and performance management tools.
